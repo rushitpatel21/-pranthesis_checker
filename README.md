@@ -1,2 +1,8 @@
+
 # opration_on_stack_
-it is insert/delet elemnt on stack
+
+# opration_on_stck_eleman
+# insert/delet element on stack
+
+
+
